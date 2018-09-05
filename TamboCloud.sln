@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TamboCloud", "TamboCloud\TamboCloud.csproj", "{B781C725-49C5-45A5-BD51-DA6565CFD5D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TamboCloud.Tests", "TamboCloud.Tests\TamboCloud.Tests.csproj", "{E9270B21-43F9-4E94-8005-EDFDFA36651F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B781C725-49C5-45A5-BD51-DA6565CFD5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B781C725-49C5-45A5-BD51-DA6565CFD5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B781C725-49C5-45A5-BD51-DA6565CFD5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B781C725-49C5-45A5-BD51-DA6565CFD5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9270B21-43F9-4E94-8005-EDFDFA36651F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9270B21-43F9-4E94-8005-EDFDFA36651F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9270B21-43F9-4E94-8005-EDFDFA36651F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9270B21-43F9-4E94-8005-EDFDFA36651F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F92973AF-4AD4-4A0D-B6CD-4770A3AD6B33}
+	EndGlobalSection
+EndGlobal
